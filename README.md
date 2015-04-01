@@ -12,7 +12,7 @@ Assumptions
 
         A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12
 
-	B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11 B12
+        B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11 B12
 	
    Alice's Home Board:	A7-A12
    Bob's Home Board  :  B7-B12
